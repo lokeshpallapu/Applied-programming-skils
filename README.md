@@ -48,6 +48,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0049-group-anagrams/) | Medium |
 | [0200-number-of-islands](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
@@ -58,6 +59,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0049-group-anagrams/) | Medium |
 | [0202-happy-number](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0929-unique-email-addresses/) | Easy |
@@ -77,11 +79,13 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0929-unique-email-addresses/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
 ## Math
 | Problem Name | Difficulty |
