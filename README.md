@@ -57,6 +57,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
 | [0997-find-the-town-judge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0997-find-the-town-judge/) | Easy |
 ## Matrix
@@ -79,4 +80,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0202-happy-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
