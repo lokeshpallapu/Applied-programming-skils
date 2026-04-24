@@ -50,6 +50,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0200-number-of-islands/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0695-max-area-of-island](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0695-max-area-of-island/) | Medium |
@@ -162,6 +163,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0198-house-robber/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
