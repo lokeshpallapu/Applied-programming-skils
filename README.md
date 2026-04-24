@@ -195,5 +195,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
