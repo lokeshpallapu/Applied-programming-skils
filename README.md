@@ -93,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0022-generate-parentheses/) | Medium |
+| [0043-multiply-strings](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0049-group-anagrams/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
@@ -109,6 +110,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0043-multiply-strings/) | Medium |
 | [0062-unique-paths](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0202-happy-number/) | Easy |
@@ -200,4 +202,8 @@
 | [0046-permutations](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0078-subsets/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
