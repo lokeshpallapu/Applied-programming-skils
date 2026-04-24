@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0207-course-schedule/) | Medium |
+| [0322-coin-change](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
@@ -53,6 +54,7 @@
 | [0198-house-robber](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0200-number-of-islands/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0322-coin-change](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0695-max-area-of-island](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
@@ -169,6 +171,7 @@
 | [0062-unique-paths](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
