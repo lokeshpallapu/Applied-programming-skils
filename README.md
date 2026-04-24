@@ -56,6 +56,7 @@
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0733-flood-fill/) | Easy |
 | [0929-unique-email-addresses](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0929-unique-email-addresses/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
@@ -93,10 +94,12 @@
 | [0049-group-anagrams](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0169-majority-element/) | Easy |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0202-happy-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +110,7 @@
 | [0169-majority-element](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0190-reverse-bits/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1763-longest-nice-substring](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/1763-longest-nice-substring/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -141,4 +145,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
