@@ -51,6 +51,7 @@
 | [0049-group-anagrams](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0200-number-of-islands/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0695-max-area-of-island](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0733-flood-fill/) | Easy |
@@ -105,6 +106,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0190-reverse-bits/) | Easy |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1763-longest-nice-substring](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/1763-longest-nice-substring/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -119,4 +121,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1763-longest-nice-substring](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/1763-longest-nice-substring/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
