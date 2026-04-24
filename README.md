@@ -56,6 +56,7 @@
 | [0695-max-area-of-island](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0733-flood-fill/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0929-unique-email-addresses](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0929-unique-email-addresses/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0994-rotting-oranges/) | Medium |
@@ -164,6 +165,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0198-house-robber/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/lokeshpallapu/Applied-programming-skils/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
